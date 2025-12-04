@@ -1,0 +1,15 @@
+[
+  {
+    "vehicle_id": "b79212df",
+    "type": "Самолёт",
+    "capacity": 500.0,
+    "current_load": 300.0,
+    "clients": [
+      {
+        "name": "Кирюхыч",
+        "cargo_weight": 300.0,
+        "vip": true
+      }
+    ]
+  }
+]
